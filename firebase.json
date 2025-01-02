@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "qrmenu-e6f00-55909",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
